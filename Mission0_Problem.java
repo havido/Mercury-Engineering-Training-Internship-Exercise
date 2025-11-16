@@ -2,9 +2,10 @@
  * 🏪 Welcome to JavaBean Café!
  * 
  * Our ordering system has a SERIOUS problem. Run this code and see what happens...
- * To run this code your terminal, navigate to the Mercury-Engineering-Training-Internship-Exercise folder
- * And run: javac Mission0_Problem.java
- * Then run: java Mission0_Problem
+ * 
+ * To run this code in your terminal, navigate to the Mercury-Engineering-Training-Internship-Exercise folder
+ * And run this to compile the file: javac Mission0_Problem.java
+ * Then run this to run the compiled file: java Mission0_Problem
  */
 
 public class Mission0_Problem {
