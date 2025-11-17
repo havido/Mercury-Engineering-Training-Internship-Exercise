@@ -6,8 +6,7 @@ import java.util.Scanner;
  * Run this file anytime you need help with a mission!
  * Hints are revealed progressively to avoid spoilers.
  * 
- * Usage: javac HintSystem.java
- * Then run: java HintSystem
+ * Usage: Run the file by running this in terminal: java HintSystem
  */
 public class HintSystem {
     
