@@ -56,9 +56,3 @@ public class Mission2_ValidationLogic {
  * - Should validation happen in the constructor, the setter, or both?
  * - What edge cases should we consider (null values, empty strings, extremely large numbers)?
  */
-
-/* 💡 HINTS:
- * - Use an if statement to check: if (price >= 0) { ... }
- * - What should happen if the price is invalid? Don't change the field!
- * - Advanced: Throw an IllegalArgumentException for invalid input
- */
