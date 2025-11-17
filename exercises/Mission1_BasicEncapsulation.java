@@ -4,7 +4,7 @@
  * Your task: Make it IMPOSSIBLE for anyone to directly change the price by accessing the attribute.
  * Use private fields and public methods (getters/setters).
  * 
- * To run this code in your terminal, navigate to the Mercury-Engineering-Training-Internship-Exercise folder
+ * To run this code in your terminal, navigate to the ./exercises folder
  * And run this to compile the file: javac Mission1_BasicEncapsulation.java
  * Then run this to run the compiled file: java Mission1_BasicEncapsulation
  */

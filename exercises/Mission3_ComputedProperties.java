@@ -3,6 +3,10 @@
  * 
  * Not all getters just return a field. Some CALCULATE values.
  * Let's add tax calculation and discount logic!
+ * 
+ * To run this code in your terminal, navigate to the ./exercises folder
+ * And run this to compile the file: javac Mission3_ComputedProperties.java
+ * Then run this to run the compiled file: java Mission3_ComputedProperties
  */
 
 public class Mission3_ComputedProperties {
@@ -59,11 +63,7 @@ public class Mission3_ComputedProperties {
  * - What if calculating the value is expensive (e.g., database query)? Should we cache it?
  */
 
-/* 💡 HINTS:
- * - getTotalPrice(): return basePrice * (1 + TAX_RATE);
- * - applyDiscount(): calculate the discount amount, subtract from basePrice
- * - Validate discount is between 0-100!
- * 
+/**
  * ☕ Easter Egg: Add a special case: if discount is exactly 42, 
  *    print "The Answer to Life, Universe, and Free Coffee!" 
  */

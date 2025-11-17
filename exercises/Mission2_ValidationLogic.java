@@ -5,6 +5,10 @@
  * order.setPrice(-5.00);  // This shouldn't be allowed!
  * 
  * Your task: Add validation to setters to reject bad data.
+ * 
+ * To run this code in your terminal, navigate to the ./exercises folder
+ * And run this to compile the file: javac Mission2_ValidationLogic.java
+ * Then run this to run the compiled file: java Mission2_ValidationLogic
  */
 
 public class Mission2_ValidationLogic {
