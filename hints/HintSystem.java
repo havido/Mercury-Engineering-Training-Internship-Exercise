@@ -15,7 +15,7 @@ public class HintSystem {
     
     public static void main(String[] args) {
         System.out.println("╔════════════════════════════════════════════╗");
-        System.out.println("║    ☕ CAFÉ CRISIS - HINT SYSTEM ☕        ║");
+        System.out.println("║    ☕ CAFÉ CRISIS - HINT SYSTEM ☕           ║");
         System.out.println("╚════════════════════════════════════════════╝");
         System.out.println();
         
@@ -23,7 +23,7 @@ public class HintSystem {
             displayMainMenu();
             String choice = getUserInput("\nEnter your choice: ");
             
-            if (choice.equals("0")) {
+            if (choice.equals("x")) {
                 System.out.println("\n☕ Good luck with your missions! Remember: struggling is learning!");
                 break;
             }
@@ -42,7 +42,7 @@ public class HintSystem {
         System.out.println("  [1] Mission 1 - Basic Encapsulation");
         System.out.println("  [2] Mission 2 - Validation Logic");
         System.out.println("  [3] Mission 3 - Computed Properties");
-        System.out.println("  [0] Exit Hint System");
+        System.out.println("  [x] Exit Hint System");
         System.out.println("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
     }
     
