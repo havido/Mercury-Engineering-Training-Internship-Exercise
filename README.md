@@ -30,7 +30,7 @@ java HintSystem
 ## File Structure
 
 ```
-cafe-crisis/
+Mercury-Engineering-Training-Internship-Exercise/
 ├── exercises/                    # Mission files (work here)
 ├── hints/HintSystem.java   # Interactive tiered hints and solutions accessed via console output
 └── README.md              # Exercise brief
